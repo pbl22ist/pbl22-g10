@@ -1,4 +1,4 @@
-package sampleRobot;
+package robocode;
 
 public class Enemy {
 

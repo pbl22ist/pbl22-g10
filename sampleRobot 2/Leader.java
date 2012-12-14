@@ -1,4 +1,4 @@
-package sampleRobot;
+package robocode;
 
 import java.util.HashMap;
 import java.util.List;
